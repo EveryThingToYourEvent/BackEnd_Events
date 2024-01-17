@@ -23,7 +23,7 @@ builder.Services.AddCors(p => p.AddPolicy("AlowAll", option =>
     option.AllowAnyHeader();
     option.AllowAnyOrigin();
 }));
-
+//הוספה
 // הוספת מנהל התלויות
 builder.Services.AddDbContext<EverythingToYourEventContext>(y => y.UseSqlServer("Server=DESKTOP-IQUC79O;Database=EverythingToYourEvent;Trusted_Connection=True;TrustServerCertificate=True;"));
 

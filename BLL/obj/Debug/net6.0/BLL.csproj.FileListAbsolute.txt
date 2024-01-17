@@ -1,0 +1,170 @@
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.deps.json
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.pdb
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DAL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DTO_Entities.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DTO_Entities.pdb
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DAL.pdb
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\refint\BLL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.pdb
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\ref\BLL.dll
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.deps.json
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.dll
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.pdb
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DAL.dll
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DTO_Entities.dll
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DTO_Entities.pdb
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DAL.pdb
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.dll
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\refint\BLL.dll
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.pdb
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\ref\BLL.dll
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.dll
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\refint\BLL.dll
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.pdb
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.deps.json
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.dll
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.pdb
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DAL.dll
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DTO_Entities.dll
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DTO_Entities.pdb
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DAL.pdb
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\BLL\obj\Debug\net6.0\ref\BLL.dll
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.deps.json
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.dll
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.pdb
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DAL.dll
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DTO_Entities.dll
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DTO_Entities.pdb
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DAL.pdb
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.dll
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\obj\Debug\net6.0\refint\BLL.dll
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.pdb
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\obj\Debug\net6.0\ref\BLL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.deps.json
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.pdb
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DAL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DTO_Entities.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DTO_Entities.pdb
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DAL.pdb
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\obj\Debug\net6.0\refint\BLL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.pdb
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\BLL\obj\Debug\net6.0\ref\BLL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.deps.json
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.pdb
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DAL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DTO_Entities.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DTO_Entities.pdb
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DAL.pdb
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\BLL\obj\Debug\net6.0\refint\BLL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.pdb
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DTO_Entities.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DTO_Entities.pdb
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DTO_Entities.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DTO_Entities.pdb
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DTO_Entities.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DTO_Entities.pdb
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\ref\BLL.dll
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.deps.json
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.dll
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\BLL.pdb
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DAL.dll
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DTO_Entities.dll
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DTO_Entities.pdb
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\bin\Debug\net6.0\DAL.pdb
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.dll
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\refint\BLL.dll
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\BLL.pdb
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\BLL\obj\Debug\net6.0\ref\BLL.dll

@@ -1,0 +1,140 @@
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.deps.json
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.pdb
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\refint\DAL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.pdb
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\ref\DAL.dll
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.deps.json
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.dll
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.pdb
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.dll
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\refint\DAL.dll
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.pdb
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+Z:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\ref\DAL.dll
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.dll
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\refint\DAL.dll
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.pdb
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.deps.json
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.dll
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.pdb
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+E:\פרוייקט סוף שנה\EveryThingToYourEvent\DAL\obj\Debug\net6.0\ref\DAL.dll
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.deps.json
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.dll
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.pdb
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.dll
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\obj\Debug\net6.0\refint\DAL.dll
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.pdb
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+E:\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\obj\Debug\net6.0\ref\DAL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.deps.json
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.pdb
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\obj\Debug\net6.0\refint\DAL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.pdb
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\API\EveryThingToYourEvent\DAL\obj\Debug\net6.0\ref\DAL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.deps.json
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.pdb
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\DAL\obj\Debug\net6.0\refint\DAL.dll
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.pdb
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+H:\שנה ב\תרגילים\פרוייקט סוף שנה\Api גמור\EveryThingToYourEvent\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\5- 04.06.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\6-20.07.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\user\Documents\הנדסת תוכנה שיעורי בית\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\ref\DAL.dll
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.deps.json
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.dll
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\bin\Debug\net6.0\DAL.pdb
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.dll
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\refint\DAL.dll
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.pdb
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+H:\פרוייקט סוף שנה\API\7-05.11.2023\EveryThingToYourEvent\DAL\obj\Debug\net6.0\ref\DAL.dll

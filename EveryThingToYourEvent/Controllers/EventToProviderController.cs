@@ -3,6 +3,8 @@ using Microsoft.AspNetCore.Mvc;
 using BLL.LogicActions;
 using BLL.ILogicAction;
 using DTO_Entities.Repository;
+using System.Net.Http.Json;
+using System.Text.Json;
 
 namespace EveryThingToYourEvent.Controllers
 {
@@ -20,7 +22,9 @@ namespace EveryThingToYourEvent.Controllers
         [HttpGet("GetAllEventToProvider")]
         public IActionResult GetAllEventToProvider()
         {
-            return Ok(_eventToProviderBL.GetAllEventToProvider());
+            string s= "{\"joen\":1}";
+            //return Ok(_eventToProviderBL.GetAllEventToProvider());
+            return Ok(JsonSerializer.Serialize(s));
         }
 
         //שליפת אירוע לספק לפי הקוד של הספק

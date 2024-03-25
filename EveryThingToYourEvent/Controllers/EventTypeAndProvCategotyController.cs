@@ -38,7 +38,7 @@ namespace EveryThingToYourEvent.Controllers
             return Ok(_eventTypeAndProvCategoryBL.DeleteEventTypeAndProvCategoty(id));
         }
 
-        // עדכון רשומה בטבלה המקשרת
+        // עדכון רשומה בטבלה המקשרתn
         [HttpPut("UpdateEventTypeAndProvCategoty/{id}")]
         public IActionResult UpdateEventTypeAndProvCategoty(int id, [FromBody] EventTypeAndProvCategotyDTO e)
         {
